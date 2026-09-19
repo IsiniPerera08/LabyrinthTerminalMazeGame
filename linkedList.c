@@ -1,8 +1,3 @@
-/*
-File: linkedList.c
-Purpose: to implemt the generic linked list to undo
-Last modified: 2026-05-20
-*/
 #include<stdio.h>
 #include<stdlib.h>
 #include "linkedList.h"
