@@ -1,11 +1,3 @@
-/*
-File: map.h
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Unit: COMP1000(Unix and C programming)
-Purpose: Stores the map structure and functions related to the map handling
-Last modified: 2026-05-20
-*/
 #ifndef MAP_H
 #define MAP_H
 
