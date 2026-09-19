@@ -1,12 +1,5 @@
-/*
-File: newSleep.c
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Unit: COMP1000(Unix and C programming)
-Purpose: adds the small delays to the printing message
-*/
-#define _DEFAULT_SOURCE /* <-- Do NOT forget to define this */
-#include <time.h>       /* <-- Necessary to call nanosleep */
+#define _DEFAULT_SOURCE
+#include <time.h>  
 #include "newSleep.h"
 
 void newSleep(float sec)
