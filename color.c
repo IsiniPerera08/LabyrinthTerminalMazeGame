@@ -1,8 +1,5 @@
 /*
 File: color.c
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Unit: COMP1000(Unix and C programming)
 Purpose: To control the teminals foreground and backgrounf colour
 */
 
