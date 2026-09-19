@@ -1,10 +1,3 @@
-/*
-File: color.c
-Purpose: To control the teminals foreground and backgrounf colour
-*/
-
-
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
