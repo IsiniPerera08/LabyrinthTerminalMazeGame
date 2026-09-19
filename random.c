@@ -1,10 +1,3 @@
-/*
-File: random.c
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Unit: COMP1000(Unix and C programming)
-Purpose: To generate random nmbers for the enemey movement
-*/
 #include<stdlib.h>
 #include<time.h>
 #include"random.h"
