@@ -1,9 +1,3 @@
-/*
-File: color.h
-Purpose: To store color delclarations
-*/
-
-
 #ifndef COLOR_H
 #define COLOR_H
 
