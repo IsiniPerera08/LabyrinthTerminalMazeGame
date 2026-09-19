@@ -1,8 +1,3 @@
-/*
-File: enemy.h
-Purpose: stors the enemy function declarations
-Last modified: 2026-05-20
-*/
 #ifndef ENEMY_H
 #define ENEMY_H
 
