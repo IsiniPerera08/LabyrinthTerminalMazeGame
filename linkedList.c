@@ -1,8 +1,5 @@
 /*
 File: linkedList.c
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Unit: COMP1000(Unix and C programming)
 Purpose: to implemt the generic linked list to undo
 Last modified: 2026-05-20
 */
