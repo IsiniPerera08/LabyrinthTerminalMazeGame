@@ -1,11 +1,3 @@
-/*
-File: linkedList.h
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Unit: COMP1000(Unix and C programming)
-Purpose: To store the linkedList declarations
-Last modified: 2026-05-20
-*/
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
 
