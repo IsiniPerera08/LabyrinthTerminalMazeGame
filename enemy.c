@@ -1,8 +1,3 @@
-/*
-File: enemy.c
-Purpose: Controls the enemy initialisation, movement,and behaviour
-Last modified: 2026-05-20
-*/
 #include <stdio.h>
 #include "enemy.h"
 #include "random.h"
