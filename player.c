@@ -1,11 +1,3 @@
-/*
-File: player.c
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Unit: COMP1000(Unix and C programming)
-Purpose: Controls the player movement, collision checking, treasure collection and goal reached
-Last modified: 2026-05-20
-*/
 #include <stdio.h>
 #include "player.h"
 #include "map.h"
