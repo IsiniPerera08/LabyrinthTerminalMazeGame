@@ -1,8 +1,5 @@
 /*
 File: enemy.c
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Unit: COMP1000(Unix and C programming)
 Purpose: Controls the enemy initialisation, movement,and behaviour
 Last modified: 2026-05-20
 */
