@@ -1,11 +1,3 @@
-/*
-File: main.c
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Unit: COMP1000(Unix and C programming)
-Purpose: To handle the user input, enemy movement,undo, print messages whether won or lost
-Last modified: 2026-05-20
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include "map.h"
