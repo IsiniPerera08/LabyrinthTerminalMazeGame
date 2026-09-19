@@ -1,10 +1,3 @@
-/*
-File: terminal.c
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Unit: COMP1000(Unix and C programming)
-Purpose: allows single key inputs to be entered without having click enter
-*/
 #include<stdio.h>
 #include<termios.h>
 #include"terminal.h"
