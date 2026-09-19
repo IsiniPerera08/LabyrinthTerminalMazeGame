@@ -1,11 +1,3 @@
-/*
-File: map.c
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Unit: COMP1000(Unix and C programming)
-Purpose: loads, prints the map and frees the map memory
-Last modified: 2026-05-20
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include "color.h"
