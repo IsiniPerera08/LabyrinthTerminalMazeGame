@@ -1,8 +1,5 @@
 /*
 File: color.h
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Unit: COMP1000(Unix and C programming)
 Purpose: To store color delclarations
 */
 
