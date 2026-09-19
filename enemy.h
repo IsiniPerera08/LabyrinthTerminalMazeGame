@@ -1,8 +1,5 @@
 /*
 File: enemy.h
-Name: Isini Ayansa Perera
-Student ID: 23601321
-Unit: COMP1000(Unix and C programming)
 Purpose: stors the enemy function declarations
 Last modified: 2026-05-20
 */
